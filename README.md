@@ -1,6 +1,6 @@
 ## Olá! Eu sou Alan Souza! 👋
 
-- 🔭 Meu objetivo é trabalhar com Front-end
+- 🔭 Meu objetivo é trabalhar com Full-Stack
 - 🌱 Hoje estou estudando HTML, CSS e JavaScript
 - 👯 Busco colaborar com pessoas e empresas dispostas a ajudar outras pessoas através da programação
 - 😄 Pronouns: Ele/dele
