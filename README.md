@@ -1,6 +1,6 @@
 ## Olá! Eu sou Alan Souza! 👋
 
-- 🔭 Meu objetivo é trabalhar com Full-Stack
+- 🔭 Meu objetivo é trabalhar com Full-Stack na empresa Microsoft.
 - 🌱 Hoje estou estudando HTML, CSS e JavaScript
 - 👯 Busco colaborar com pessoas e empresas dispostas a ajudar outras pessoas através da programação
 - 😄 Pronouns: Ele/dele
