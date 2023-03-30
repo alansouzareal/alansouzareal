@@ -3,7 +3,7 @@
 - 🔭 Meu objetivo é trabalhar como desenvolvedor Full-Stack
 - 🌱 Hoje estou estudando HTML, CSS e JavaScript
 - 👯 Busco colaborar com pessoas e empresas dispostas a ajudar outras pessoas através da programação
-- 😄 Pronouns: Ele/dele
+
 
 <div align="center">
   <a href="https://github.com/alansouzareal">
